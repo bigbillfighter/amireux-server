@@ -1,0 +1,37 @@
+[
+  {
+    "username": "jack",
+    "password": "123",
+    "name": "Jack Ma",
+    "rank": "1",
+    "department": "后端开发部",
+    "professional": "后端开发员",
+    "monthlySalary": 7000,
+    "registerTime": "2020-12-13",
+    "avatar": "default",
+    "email": "123@qq.com"
+  },{
+    "username": "lucas",
+    "password": "456",
+    "name": "Lucas J. Park",
+    "rank": "4",
+    "department": "市场营销部",
+    "professional": "市场营销部经理",
+    "monthlySalary": 32000,
+    "registerTime": "2018-04-23",
+    "avatar": "avatar",
+    "email": "456@qq.com"
+  },{
+    "username": "tom",
+    "password": "abcd",
+    "name": "Tom Max",
+    "rank": "2",
+    "department": "前端开发部",
+    "professional": "前端开发小组组长",
+    "monthlySalary": 12500,
+    "registerTime": "2019-09-05",
+    "avatar": null,
+    "email": "abc@qq.com"
+  }
+]
+

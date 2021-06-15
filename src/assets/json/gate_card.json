@@ -1,0 +1,102 @@
+[
+  {
+    "id": "20398",
+    "staffId": "lucas",
+    "date": "2021-05-20",
+    "enterTime": "09:40:26",
+    "leaveTime": "23:11:40",
+    "ifAbsent": false,
+    "ifVacate": false,
+    "remark": ""
+  },
+  {
+    "id": "20399",
+    "staffId": "tom",
+    "date": "2021-05-20",
+    "enterTime": "",
+    "leaveTime": "",
+    "ifAbsent": true,
+    "ifVacate": true,
+    "remark": ""
+  },
+  {
+    "id": "20340",
+    "staffId": "jack",
+    "date": "2021-05-20",
+    "enterTime": "09:40:26",
+    "leaveTime": "23:11:40",
+    "ifAbsent": false,
+    "ifVacate": false,
+    "remark": ""
+  },
+  {
+    "id": "20341",
+    "staffId": "lucas",
+    "date": "2021-05-21",
+    "enterTime": "",
+    "leaveTime": "",
+    "ifAbsent": true,
+    "ifVacate": false,
+    "remark": ""
+  },
+  {
+    "id": "20342",
+    "staffId": "jack",
+    "date": "2021-05-21",
+    "enterTime": "",
+    "leaveTime": "",
+    "ifAbsent": true,
+    "ifVacate": false,
+    "remark": ""
+  },
+  {
+    "id": "20343",
+    "staffId": "tom",
+    "date": "2021-05-21",
+    "enterTime": "08:40:26",
+    "leaveTime": "22:11:40",
+    "ifAbsent": false,
+    "ifVacate": false,
+    "remark": ""
+  },
+  {
+    "id": "20344",
+    "staffId": "lucas",
+    "date": "2021-05-22",
+    "enterTime": "",
+    "leaveTime": "",
+    "ifAbsent": true,
+    "ifVacate": true,
+    "remark": "出差"
+  },
+  {
+    "id": "20345",
+    "staffId": "lucas",
+    "date": "2021-05-23",
+    "enterTime": "09:40:26",
+    "leaveTime": "23:11:40",
+    "ifAbsent": false,
+    "ifVacate": false,
+    "remark": ""
+  },
+  {
+    "id": "20346",
+    "staffId": "lucas",
+    "date": "2021-05-24",
+    "enterTime": "08:40:26",
+    "leaveTime": "22:11:40",
+    "ifAbsent": false,
+    "ifVacate": false,
+    "remark": ""
+  },
+  {
+    "id": "20347",
+    "staffId": "lucas",
+    "date": "2021-05-25",
+    "enterTime": "08:40:26",
+    "leaveTime": "22:11:40",
+    "ifAbsent": false,
+    "ifVacate": false,
+    "remark": ""
+  }
+]
