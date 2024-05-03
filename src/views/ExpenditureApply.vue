@@ -36,7 +36,7 @@
           </el-form-item>
 
           <el-form-item label="申请金额">
-            <el-input-number v-model="applyMoney" :min="1"></el-input-number><span>&nbsp元</span>
+            <el-input-number v-model="applyMoney" :min="1"></el-input-number><span>元</span>
           </el-form-item>
 
           <el-form-item label="申请原因" style="white-space: nowrap;">
